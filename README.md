@@ -268,6 +268,6 @@ Private — all rights reserved.
 
 ## Author
 
-- **Abhishek Shah**
+- **Mateusz Skwara**
 - GitHub: [@Mattskwara](https://github.com/Saas-Engineer)
 - Email: mattskwara77@gmail.com
